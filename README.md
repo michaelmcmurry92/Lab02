@@ -1,3 +1,6 @@
+WATCH ME HERE: https://www.loom.com/share/f235f9b5f07e4b948d94ac7ed3cf59be
+
+
 # Lab 02: Building a Secure 2-Tier Web Application on Azure
 
 **Author:** Jhante Charles
